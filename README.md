@@ -1,6 +1,6 @@
 # clojure_learning
 
-A Clojure library designed to ... well, that part is up to you.
+このリポジトリは、春休み中にclojure習得するときのコード置き場である
 
 ## Usage
 
